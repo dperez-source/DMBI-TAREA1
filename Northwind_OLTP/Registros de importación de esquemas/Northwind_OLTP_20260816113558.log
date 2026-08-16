@@ -1,0 +1,90 @@
+16/8/2026 19:35:58	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Northwind_OLTP' del equipo 'DANNAPC' por el usuario 'danna'.
+16/8/2026 19:35:58	Se inició la importación del esquema de la base de datos.
+16/8/2026 19:36:19	Recopilando credenciales de la base de datos
+16/8/2026 19:36:19	Recopilando opciones de base de datos
+16/8/2026 19:36:19	Recopilando la opción de configuración de ámbito de la base de datos genérica
+16/8/2026 19:36:19	Recopilando usuarios
+16/8/2026 19:36:19	Recopilando roles
+16/8/2026 19:36:19	Recopilando roles de aplicación
+16/8/2026 19:36:19	Recopilando pertenencias a roles
+16/8/2026 19:36:19	Recopilando grupos de archivos
+16/8/2026 19:36:19	Recopilando catálogos de texto completo
+16/8/2026 19:36:19	Recopilando ensamblados
+16/8/2026 19:36:19	Recopilando certificados
+16/8/2026 19:36:19	Recopilando claves asimétricas
+16/8/2026 19:36:19	Recopilando claves simétricas
+16/8/2026 19:36:19	Recopilando claves simétricas cifradas
+16/8/2026 19:36:19	Recopilando esquemas
+16/8/2026 19:36:19	Recopilando colecciones de esquemas XML
+16/8/2026 19:36:19	Recopilando tipos de datos definidos por el usuario
+16/8/2026 19:36:19	Recopilando tipos definidos por el usuario
+16/8/2026 19:36:19	Recopilando tipos de tabla
+16/8/2026 19:36:19	Recopilando claves únicas para tipos de tabla
+16/8/2026 19:36:19	Recopilando claves principales para tipos de tabla
+16/8/2026 19:36:19	Recopilando índices para tipos de tablas
+16/8/2026 19:36:20	Recopilando restricciones CHECK para tipos de tabla
+16/8/2026 19:36:20	Recopilando restricciones DEFAULT para tipos de tabla
+16/8/2026 19:36:20	Recopilando funciones de partición
+16/8/2026 19:36:20	Recopilando esquemas de partición
+16/8/2026 19:36:20	Recopilando funciones
+16/8/2026 19:36:20	Recopilando funciones cifradas
+16/8/2026 19:36:20	Recopilando agregados
+16/8/2026 19:36:20	Recopilando procedimientos
+16/8/2026 19:36:20	Recopilando procedimientos cifrados
+16/8/2026 19:36:20	Recopilando tablas
+16/8/2026 19:36:20	Recopilando claves principales
+16/8/2026 19:36:20	Recopilando restricciones UNIQUE
+16/8/2026 19:36:20	Recopilando claves externas
+16/8/2026 19:36:20	Recopilando restricciones DEFAULT
+16/8/2026 19:36:20	Recopilando restricciones CHECK
+16/8/2026 19:36:20	Recopilando vistas
+16/8/2026 19:36:20	Recopilando vistas cifradas
+16/8/2026 19:36:20	Recopilando índices
+16/8/2026 19:36:20	Recopilando estadísticas
+16/8/2026 19:36:20	Recopilando listas de palabras irrelevantes de índices de texto completo
+16/8/2026 19:36:20	Recopilando listas de propiedades de búsqueda
+16/8/2026 19:36:20	Recopilando propiedades de búsqueda
+16/8/2026 19:36:20	Recopilando índices de texto completo
+16/8/2026 19:36:21	Recopilando índices de almacenamiento de columnas
+16/8/2026 19:36:21	Recopilando índices espaciales
+16/8/2026 19:36:21	Recopilando índices XML
+16/8/2026 19:36:21	Recolección de índices JSON
+16/8/2026 19:36:21	Recopilando índices XML selectivos
+16/8/2026 19:36:21	Recopilando desencadenadores cifrados
+16/8/2026 19:36:21	Recopilando desencadenadores
+16/8/2026 19:36:21	Recopilando DDL triggers cifrados y de CLR
+16/8/2026 19:36:21	Recopilando DDL triggers
+16/8/2026 19:36:21	Creación de la restricción perimetral en curso
+16/8/2026 19:36:21	Recopilando sinónimos
+16/8/2026 19:36:21	Recopilando valores predeterminados
+16/8/2026 19:36:21	Recopilando enlaces UDDT de restricción de datos
+16/8/2026 19:36:21	Recopilando reglas
+16/8/2026 19:36:21	Recopilando enlaces UDDT de restricción de datos
+16/8/2026 19:36:21	Recopilando tipos de mensaje
+16/8/2026 19:36:21	Recopilando colas
+16/8/2026 19:36:21	Recopilando contratos
+16/8/2026 19:36:21	Recopilando servicios
+16/8/2026 19:36:21	Recopilando notificaciones de eventos
+16/8/2026 19:36:21	Recopilando enlaces de servicio remoto
+16/8/2026 19:36:21	Recopilando prioridades de Broker
+16/8/2026 19:36:21	Recopilando firmas
+16/8/2026 19:36:21	Recopilando opciones de compresión
+16/8/2026 19:36:21	Recopilando tipos de secuencia
+16/8/2026 19:36:21	Recopilando directivas de seguridad
+16/8/2026 19:36:21	Recopilar claves de cifrado de columna
+16/8/2026 19:36:21	Recopilando claves maestras de columna
+16/8/2026 19:36:21	Recopilando orígenes de datos externos
+16/8/2026 19:36:21	Recopilando formatos de archivo externos
+16/8/2026 19:36:21	Recopilando modelos externos
+16/8/2026 19:36:21	Recopilando tablas externas
+16/8/2026 19:36:21	Recopilando opciones de compresión de índice XML
+16/8/2026 19:36:21	Recopilando propiedades extendidas
+16/8/2026 19:36:21	Recopilando ensamblados
+16/8/2026 19:36:21	Recopilando credenciales
+16/8/2026 19:36:21	Recopilando inicios de sesión
+16/8/2026 19:36:21	Recopilando auditorías de servidor
+16/8/2026 19:36:23	Buscando elementos duplicados en el proyecto
+16/8/2026 19:36:23	Ha finalizado el procesamiento de los elementos duplicados
+16/8/2026 19:36:24	Finalizó la importación de la base de datos.
+16/8/2026 19:36:24	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\danna\source\repos\Northwind_OLTP\Northwind_OLTP\Registros de importación de esquemas\Northwind_OLTP_20260816113558.log
+16/8/2026 19:36:24	Haga clic en Finalizar para continuar...
